@@ -1,0 +1,6 @@
+[package]
+name = "longint"
+version = "0.1.0"
+authors = ["darrylbckhm <dabeckham@ucdavis.edu>"]
+
+[dependencies]
